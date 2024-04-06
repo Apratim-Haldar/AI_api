@@ -1,0 +1,16 @@
+{
+  "name": "regus",
+  "version": "1.0.0",
+  "description": "api for Q_A",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Apratin",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/google-genai": "^0.0.10",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.0"
+  }
+}
